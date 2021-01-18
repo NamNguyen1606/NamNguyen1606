@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
 Portfolio: https://namnguyen1606.github.io/Porfolio/
 - 🔭 I’m currently working on ... PSC Company
 - 🌱 I’m currently learning ... React Native, NodeJs
