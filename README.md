@@ -1,5 +1,5 @@
 ### Hi there 👋
-Portfolio: https://namnguyen1606.github.io/Porfolio/
+Portfolio: https://namnguyen1606.github.io/Portfolio/
 - 🔭 I’m currently working on ... PSC Company
 - 🌱 I’m currently learning ... React Native, NodeJs
 - 💬 Ask me about ... React Native
