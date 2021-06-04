@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nam Nguyen</h1>
 <h3 align="center">A passionate mobile developer from Viet Nam</h3>
-Portfolio: https://namnguyen1606.github.io/Portfolio/
+<h5 align="center">Portfolio: https://namnguyen1606.github.io/Portfolio/</h3>
+
 - 🌱 I’m currently learning React Native, NodeJs
 - 💬 Ask me about React Native
 - 📫 How to reach me: [Youtube Chanel](https://www.youtube.com/channel/UCIimMLF-d_UgJ1td42oPjqQ?view_as=subscriber) | [Linkedin](https://www.linkedin.com/in/nam-nguyen-1222561aa/)
